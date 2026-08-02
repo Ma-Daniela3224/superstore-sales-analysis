@@ -1,6 +1,10 @@
 # 🛒 Análisis de Rentabilidad: Superstore Sales
 
+🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
+
 Proyecto de ciencia de datos que analiza casi 10,000 transacciones de venta de una tienda minorista para identificar los factores que afectan su rentabilidad, aplicando análisis exploratorio de datos (EDA), pensamiento crítico y verificación estadística rigurosa.
+
+![Dashboard preview](images/dashboard_preview.gif)
 
 ## 📋 Contexto del proyecto
 
@@ -75,6 +79,26 @@ A diferencia de estados con pocas transacciones (donde un margen extremo podría
 ![Estados con peor margen](images/grafica_estados_problematicos.png)
 
 📓 Ver el resumen ejecutivo completo con recomendaciones en [`04_insights_finales.ipynb`](notebooks/04_insights_finales.ipynb)
+
+## 📊 Dashboard interactivo
+
+🔗 **[Abrir dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)**
+
+El proyecto incluye un dashboard construido con Streamlit para explorar las ventas de forma interactiva, con filtros por región, categoría y segmento de cliente.
+
+También puedes ejecutarlo localmente:
+
+```bash
+streamlit run dashboard.py
+```
+
+## ✅ Tests
+
+El módulo de procesamiento cuenta con tests unitarios que verifican el comportamiento de cada función de forma aislada.
+
+```bash
+python -m pytest tests/ -v
+```
 
 ## ⚠️ Limitaciones
 
