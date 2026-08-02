@@ -9,8 +9,6 @@
 
 🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
 
-🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
-
 Proyecto de ciencia de datos que analiza casi 10,000 transacciones de venta de una tienda minorista para identificar los factores que afectan su rentabilidad, aplicando análisis exploratorio de datos (EDA), pensamiento crítico y verificación estadística rigurosa.
 
 ![Dashboard preview](images/dashboard_preview.gif)
