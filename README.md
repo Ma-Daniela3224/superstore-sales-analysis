@@ -1,7 +1,5 @@
 # 🛒 Análisis de Rentabilidad: Superstore Sales
 
-# 🛒 Análisis de Rentabilidad: Superstore Sales
-
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-data%20cleaning-150458?logo=pandas&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-tested-0A9EDC?logo=pytest&logoColor=white)
