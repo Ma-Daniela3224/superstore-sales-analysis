@@ -4,10 +4,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-data%20cleaning-150458?logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
-![Status](https://img.shields.io/badge/status-completo-brightgreen)
 ![Pytest](https://img.shields.io/badge/Pytest-tested-0A9EDC?logo=pytest&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/status-completo-brightgreen)
 
 🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
 
