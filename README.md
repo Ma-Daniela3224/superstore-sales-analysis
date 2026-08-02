@@ -1,5 +1,16 @@
 # 🛒 Análisis de Rentabilidad: Superstore Sales
 
+# 🛒 Análisis de Rentabilidad: Superstore Sales
+
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-data%20cleaning-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
+![Status](https://img.shields.io/badge/status-completo-brightgreen)
+![Pytest](https://img.shields.io/badge/Pytest-tested-0A9EDC?logo=pytest&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter&logoColor=white)
+
+🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
+
 🔗 **[Ver dashboard en vivo](https://superstore-sales-analysis-hgdlcqkjsdynupcjdjtv3m.streamlit.app)** | 📓 [Ver notebooks de análisis](notebooks/)
 
 Proyecto de ciencia de datos que analiza casi 10,000 transacciones de venta de una tienda minorista para identificar los factores que afectan su rentabilidad, aplicando análisis exploratorio de datos (EDA), pensamiento crítico y verificación estadística rigurosa.
