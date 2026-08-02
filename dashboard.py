@@ -101,4 +101,8 @@ with col_der:
         ax2.set_ylabel('Ventas ($)')
         ax2.set_xticks(range(1, 13))
         st.pyplot(fig2, use_container_width=True)
-        
+
+
+st.divider()
+st.subheader("Datos filtrados")
+st.dataframe(df_filtrado, use_container_width=True)
